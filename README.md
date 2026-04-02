@@ -37,22 +37,17 @@ O emulador já vem pré-configurado com os seguintes comandos:
 
 ## ⚙️ Como rodar o projeto
 
-1. Clone este repositório:
-```bash
-git clone https://github.com/joaooliveiralino/Pokemon-FireRed-Web-Edition.git
-```
-
-2. Acesse a pasta do projeto:
+1. Acesse a pasta do projeto:
 ```bash
 cd pokemon-web
 ```
 
-3. Certifique-se de que a ROM está no caminho:
+2. Certifique-se de que a ROM está no caminho:
 ```
 roms/pokemon.gba
 ```
 
-4. Execute o projeto em um servidor local (necessário por causa de CORS):
+3. Execute o projeto em um servidor local (necessário por causa de CORS):
 
 ## ▶️ Opção 1 — VS Code (recomendado)
 - Instale a extensão **Live Server**
